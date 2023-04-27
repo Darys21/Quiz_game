@@ -1,5 +1,5 @@
 # Quiz_game
-a random quiz game in python
+a random quiz game in python by ANGUILET Joan 
 
 # Quiz Game
 This program is a quiz game that asks a user a series of 20 random questions pulled from an API. The user must answer each question and receives a score at the end based on how many questions were answered correctly.
